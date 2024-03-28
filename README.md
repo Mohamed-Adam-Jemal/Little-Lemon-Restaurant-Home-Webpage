@@ -1,4 +1,4 @@
-# Little-Lemon-Restaurant-Home-Webpage
+# Little Lemon Restaurant Home Webpage
 
 This project is a responsive webpage for a restaurant home page, built using HTML and CSS. The webpage is designed to effectively display information about the restaurant and provide a pleasant user experience across different devices.
 
