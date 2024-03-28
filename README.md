@@ -13,14 +13,14 @@ I also utilized several CSS features to style and enhance the appearance of the 
 - Animations, keyframes, and transitions for adding dynamic effects and interactivity
 
 
-## Features:
+## Features :
 - Responsive design for optimal viewing on different devices
 - Clear and structured layout for easy navigation
 - Visually appealing styling to enhance user experience
 
-## Technologies Used:
+## Technologies Used :
 - HTML
 - CSS
 
-## Usage:
+## Usage :
 To view the webpage, simply open the index.html file in a web browser.
